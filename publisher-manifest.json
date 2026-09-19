@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "7b691264eddc925ab2835110",
+  "owner": "pdwnavmh",
+  "repo": "page-8bb0d1fd3114da2d5ca56569",
+  "title": "clash verge下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8bb0d1fd3114da2d5ca56569",
+      "a": "GLaDOS",
+      "b": "clash verge下载",
+      "entity": "GLaDOS",
+      "brand": "clash verge下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b1202194b213a9093ed8a3a4ace1397498c5cc52e546b60e2d8607ddc0678b99",
+      "content": {
+        "primary_entity": "GLaDOS",
+        "keyword1": "GLaDOS",
+        "keyword2": "clash verge下载",
+        "content": {
+          "AI_DESCRIPTION": "，围绕多设备接入与订阅周期提供基础版、旗舰版和团队版三档方案，月付与年付并行，适配桌面、移动和路由器等多种客户端形态。",
+          "AI_HERO_SUBTITLE": "多设备订阅与节点优选",
+          "AI_HERO_INTRO": "GLaDOS 提供从基础版到团队版的多档订阅，覆盖 100GB 至 1000GB 月流量与 3 至 20 台设备在线需求，桌面与移动客户端均可按文档导入订阅。",
+          "AI_VISUAL_TITLE": "GLaDOS 订阅方案概览",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版每月 300GB，支持 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，支持 20 台设备",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "按设备数量和月流量选择套餐，再决定月付或年付周期。",
+          "AI_FEATURE_TITLE_1": "按设备数量选档",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，覆盖个人多终端与小团队场景。",
+          "AI_FEATURE_TITLE_2": "按流量节奏选量",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB、1000GB 三档，适合从轻度浏览到高频流媒体与游戏加速。",
+          "AI_FEATURE_TITLE_3": "按周期控制成本",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用更划算。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "桌面端可选 Clash Verge、Clash for Windows 等，移动端可选小火箭、Surge 等，路由器端可按 OpenWrt 插件文档配置。请以各客户端订阅导入说明为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合 3 台设备轻度使用；旗舰版增加 IPLC 专线与流媒体解锁，适合 5 台设备；团队版提供 1000GB 与 20 台设备，适合多人协作。",
+          "AI_GUIDE_TITLE": "配置订阅三步",
+          "AI_GUIDE_INTRO": "先确认设备与流量需求，再核对客户端适配要求，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_1": "根据在线设备数量和月流量，在基础版、旗舰版、团队版之间做出选择。",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TEXT_2": "确认所用客户端支持的订阅格式与协议类型，避免导入后无法连接。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "在客户端订阅管理页面粘贴订阅地址，更新节点后选择合适线路即可使用。",
+          "AI_CLOSING_TITLE": "开始选择套餐",
+          "AI_CLOSING_TEXT": "按设备与流量需求选定套餐，再按客户端文档完成订阅导入即可使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备，旗舰版每月 300GB、支持 5 台设备，并额外提供 IPLC 专线游戏加速优化和全节点流媒体解锁。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。超出数量时新设备可能无法连接，可升级套餐或减少同时在线设备。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付价格为基础版 150 元、旗舰版 350 元、团队版 850 元，相比月付按十二个月累计更省。流量和设备权益与月付相同。",
+          "AI_FAQ_QUESTION_4": "团队版适合什么样的使用场景？",
+          "AI_FAQ_ANSWER_4": "团队版提供每月 1000GB 流量、20 台设备和 VIP 高带宽节点，适合小型工作室、企业办公或多成员共用的场景，并支持企业定制路由。",
+          "AI_FAQ_QUESTION_5": "订阅如何在客户端中导入？",
+          "AI_FAQ_ANSWER_5": "下载对应系统的客户端后，复制订阅链接或扫描二维码，按客户端内的配置文档完成导入，连接成功后即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "92c24aab83483c44addcc41357c3503565d22b6eab9b2cac0523a5f2ef62c8c8",
+    "sitemap.xml": "17f0b48c9a01768ca4389500ba8a9236ad700cee3ac1c5acd8085af9ac4bab85",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "c17df8bd265b4a748014cd472d427df321e2377f9351934ca01b000e894889c5"
+}
